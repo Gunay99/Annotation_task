@@ -20,7 +20,7 @@ Stimuli were obtained from ImageNet (Level 1 and 2) and NIMSTIM (Level 3) datase
 A counterbalancing procedure was used in the present task design. Different image levels were also randomized within each bias condition. Decoy effect was not included in the counter balancing due to its different set-up, by combining consecutive images with labels of different levels.
 
 
-<img width="300" alt="Task_design" src="https://user-images.githubusercontent.com/108926241/189154390-1941212f-a460-43a0-a3b4-92a2cbb38b1f.png">
+<img width="400" alt="Task_design" src="https://user-images.githubusercontent.com/108926241/189154390-1941212f-a460-43a0-a3b4-92a2cbb38b1f.png">
 
 ## Usage ##
 
