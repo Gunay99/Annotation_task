@@ -2,7 +2,7 @@
 
 This repository provides the following tools:
 
-- The Psytoolkit experiment set up (including code and all stimuli)
+- The Psytoolkit experiment set up
 - Raw data collected from study participants
 - Analysis codes with R for the experiment
 
