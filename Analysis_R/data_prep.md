@@ -1,7 +1,5 @@
 # Prepare experiment data
 
-`setwd("/Users/oni/Documents/cognitive_biases_on annotation_task/Data/Batch2/data")`
-
 ```r
 library(readxl)
 library(tidyr)
