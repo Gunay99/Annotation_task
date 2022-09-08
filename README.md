@@ -26,7 +26,9 @@ A counterbalancing procedure was used in the present task design. Different imag
 
 ### Task implementation
 
-The task is implemented in Psytoolkit (https://www.psytoolkit.org/). To use this task, you'll need to upload the experiment.zip file in your Psytoolkit account. The .zip file contains all the stimuli and the code needed for the full experimental set up. To upload it, you will need to click `Create new experiment` from the `Create` menu from the left of the screen, then use the section `Method 2: From a PsyToolkit experiment file (zip format)`.
+The task is implemented in Psytoolkit (https://www.psytoolkit.org/). To use this task, you'll need to upload the `Annotation_task_exp.zip` file in your Psytoolkit account. The .zip file contains all the stimuli and the code needed for the full experimental set up and is available here: https://1drv.ms/u/s!AoSC3D-jR08OgfU5zk430UaqQwg0uQ?e=uITL2B 
+
+To upload it on Psytoolkit, you will need to click `Create new experiment` from the `Create` menu from the left of the screen, then use the section `Method 2: From a PsyToolkit experiment file (zip format)`.
 
 ### Data preparation and analysis
 
