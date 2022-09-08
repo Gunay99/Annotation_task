@@ -32,7 +32,7 @@ To upload it on Psytoolkit, you will need to click `Create new experiment` from 
 
 ### Data preparation and analysis
 
-Currently, this experiment collected data from 50 participants. If you want to re-analyze the data or use the same code for preparing or analysing new data, the following files from the `Analysis` folder provide R code for it:
+Currently, this experiment collected data from 50 participants. If you want to re-analyze the data or use the same code for preparing or analysing new data, the following files from the `Analysis_R` folder provide R code for it:
 
 - `Analysis_R/data_prep.md` – takes the raw data (`Raw_data\*`) and combines it in a data.frame
 - `Analysis_R/data_lmer.md` – analyze data using lmer
